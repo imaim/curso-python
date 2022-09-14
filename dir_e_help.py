@@ -1,6 +1,11 @@
 """
 Utilitarios python para auxilio na programação
-Dir -> Apresenta todos os atributos e funções/métrodos disponíveis para determinado tipo de dado ou variável
-
-Help ->
+dir -> Apresenta todos os atributos/propriedades e funções/métrodos disponíveis
+para determinado tipo de dado ou variável
+ex:
+    dir('Geek')
+help -> Apresenta a documentação/como utilizar os atributos/propriedades e funções/métrodos
+disponíveis para deterninado tipo de dados ou variável
+ex:
+    help('Geek'.lower)
 """
