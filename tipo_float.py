@@ -3,7 +3,7 @@ Tipo Float
 Tipo Real, decimal
 
 Casas Decimais
-
+print(f'{valor:.2f}') ## limita a 2 casas decimais na exibição
 OBS: O separador de cadas decimais na programação é ponto e não virgula.
 """
 
