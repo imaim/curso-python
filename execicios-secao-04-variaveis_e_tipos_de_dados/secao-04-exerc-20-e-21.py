@@ -1,7 +1,7 @@
 """
 Exercicios de fixação
 """
-# 20 - kilos para libras
+# 20-21 - kilos para libras
 
 convercao = int(input("Selecione a converção desejada \n0 -> Kilos para Libras\n 1 -> Libras para Kilos "))
 
