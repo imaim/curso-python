@@ -25,7 +25,7 @@ print(f'{nome.replace("e", "i")}') # substitui todos o "e" por "i"
 nome = "Geek University"
 print(f'{nome.replace("e", "i")}')
 #
-
+print(f'{nome[1]}')
 # nome = "Imaim Vilela"
 if type(nome) is str:
     print(f'A variável é uma {type(nome)}')
