@@ -2,7 +2,7 @@
 Exercicios de fixação
 """
 # 36
-import math
+fromimport math
 
 valor1 = int(input("Digite o primeiro cateto do triangulo: "))
 valor2 = int(input("Digite o segundo cateto do triangulo: "))
